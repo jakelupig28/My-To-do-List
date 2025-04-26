@@ -109,7 +109,7 @@ button:hover {
             margin-bottom: 10px;
             margin-left: 11px;
             margin-right: 11px;
-            width: 200px;
+            width: 150vh;
         }
         
         .task-text {
@@ -141,7 +141,7 @@ button:hover {
         .checked {
             text-decoration: line-through;
             color: #888;
-            font-weight: lighter;
+            font-weight: bold;
         }
         title {
             background-color: #330867;
