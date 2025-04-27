@@ -109,6 +109,7 @@ button:hover {
             margin-bottom: 10px;
             margin-left: 11px;
             width: 52vh;
+            font-weight: bold;
         }
         
         .task-text {
